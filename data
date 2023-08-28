@@ -1,0 +1,49 @@
+Customer Name,Credit Risk,Monthly Income,Credit History,Credit Duration,Debt/Income Ratio,Age,Occupation,Education Level,Dependents,Marital Status,Property
+John Doe,High,5000,8,5,0.4,35,Employee,Bachelor's,2,Married,House
+Jane Smith,Medium,3000,6,2,0.6,28,Self-employed,High School,0,Single,None
+Robert Johnson,High,7000,9,7,0.3,42,Employee,Bachelor's,3,Married,Car-House
+Emily Brown,Low,4000,4,3,0.5,31,Unemployed,Elementary School,0,Single,None
+Alex Johnson,Medium,6000,7,4,0.4,34,Self-employed,Bachelor's,1,Married,Land
+Samantha White,High,8000,9,8,0.2,39,Employee,Bachelor's,2,Married,Car-House
+Michael Smith,Medium,3500,5,2,0.7,27,Self-employed,High School,0,Single,None
+Jessica Miller,High,4500,6,4,0.5,29,Employee,Bachelor's,1,Married,Car
+David Brown,High,5500,8,6,0.3,38,Self-employed,Bachelor's,2,Married,House
+Sophia Johnson,Low,2500,2,1,0.8,24,Employee,Elementary School,0,Single,None
+Isabella Davis,High,4500,7,3,0.6,32,Employee,Bachelor's,2,Married,House
+Ethan Wilson,Medium,6500,9,6,0.3,37,Self-employed,Master's,3,Married,Car-House
+Olivia Martinez,Medium,5000,6,4,0.4,33,Employee,Bachelor's,1,Married,Land
+Liam Taylor,High,5500,8,5,0.5,36,Employee,Bachelor's,2,Married,House
+Ava Anderson,Low,4000,5,3,0.6,30,Self-employed,High School,0,Single,None
+Noah Harris,High,7000,9,7,0.4,40,Employee,Master's,2,Married,Car-House
+Emma Wilson,Medium,4500,6,4,0.5,31,Employee,Bachelor's,1,Married,Car
+William Thomas,Medium,6000,8,6,0.3,37,Self-employed,Master's,2,Married,Car-House
+Ava Johnson,High,3500,4,2,0.7,26,Self-employed,High School,0,Single,None
+Sophia White,Medium,5500,7,5,0.5,35,Employee,Bachelor's,1,Married,Land
+Lucas Martinez,Medium,4500,6,3,0.6,32,Employee,Bachelor's,1,Married,House
+Emma Brown,Low,7000,9,7,0.4,40,Employee,Master's,2,Married,Car-House
+Liam Smith,High,5500,8,6,0.3,37,Self-employed,Bachelor's,1,Married,Land
+Ava Davis,Medium,4500,6,3,0.6,32,Employee,Bachelor's,1,Married,House
+John Doe,High,5000,8,5,0.4,35,Employee,Bachelor's,2,Married,House
+Jane Smith,Medium,3000,6,2,0.6,28,Self-employed,High School,0,Single,None
+Robert Johnson,High,7000,9,7,0.3,42,Employee,Bachelor's,3,Married,Car-House
+Emily Brown,Low,4000,4,3,0.5,31,Unemployed,Elementary School,0,Single,None
+Alex Johnson,Medium,6000,7,4,0.4,34,Self-employed,Bachelor's,1,Married,Land
+Samantha White,High,8000,9,8,0.2,39,Employee,Bachelor's,2,Married,Car-House
+Michael Smith,Medium,3500,5,2,0.7,27,Self-employed,High School,0,Single,None
+Jessica Miller,High,4500,6,4,0.5,29,Employee,Bachelor's,1,Married,Car
+David Brown,High,5500,8,6,0.3,38,Self-employed,Bachelor's,2,Married,House
+Sophia Johnson,Low,2500,2,1,0.8,24,Employee,Elementary School,0,Single,None
+Isabella Davis,High,4500,7,3,0.6,32,Employee,Bachelor's,2,Married,House
+Ethan Wilson,Medium,6500,9,6,0.3,37,Self-employed,Master's,3,Married,Car-House
+Olivia Martinez,Medium,5000,6,4,0.4,33,Employee,Bachelor's,1,Married,Land
+Liam Taylor,High,5500,8,5,0.5,36,Employee,Bachelor's,2,Married,House
+Ava Anderson,Low,4000,5,3,0.6,30,Self-employed,High School,0,Single,None
+Noah Harris,High,7000,9,7,0.4,40,Employee,Master's,2,Married,Car-House
+Emma Wilson,Medium,4500,6,4,0.5,31,Employee,Bachelor's,1,Married,Car
+William Thomas,Medium,6000,8,6,0.3,37,Self-employed,Master's,2,Married,Car-House
+Ava Johnson,High,3500,4,2,0.7,26,Self-employed,High School,0,Single,None
+Sophia White,Medium,5500,7,5,0.5,35,Employee,Bachelor's,1,Married,Land
+Lucas Martinez,Medium,4500,6,3,0.6,32,Employee,Bachelor's,1,Married,House
+Emma Brown,Low,7000,9,7,0.4,40,Employee,Master's,2,Married,Car-House
+Liam Smith,High,5500,8,6,0.3,37,Self-employed,Bachelor's,1,Married,Land
+Ava Davis,Medium,4500,6,3,0.6,32,Employee,Bachelor's,1,Married,House
